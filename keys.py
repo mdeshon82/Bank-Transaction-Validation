@@ -1,2 +1,3 @@
-fetch_exchange_rates = 'your_exchange_rates_api_key'
-fetch_market_data = 'your_falpha_vantage_api_key'
+EXCHANGE_RATES_API_KEY = 'a1f3a42e651a4698afe372645859edb6'
+ALPHA_VANTAGE_API_KEY = '6I37J13V488Z2SI0'
+MARKET_SYMBOL = 'AAPL'
