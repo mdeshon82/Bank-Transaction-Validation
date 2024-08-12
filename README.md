@@ -17,7 +17,7 @@ This project aims to identify fraudulent transactions in bank data using data an
 - Jupyter Notebook
 
 ## Setup Instructions
-1. Clone the repository
+1. Clone the reposi tory
 2. Set up a virtual environment
 - python -m venv fraud_detection_env
 3. Activate Virtual enviroment with enviroment.txt file
