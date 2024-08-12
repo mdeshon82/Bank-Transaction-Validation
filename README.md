@@ -20,7 +20,7 @@ This project aims to identify fraudulent transactions in bank data using data an
 1. Clone the repository
 2. Set up a virtual environment
 - python -m venv fraud_detection_env
-3. Activate Virtual enviroment with enviroment.txt file
+3. Activate Virtual envirome nt with enviroment.txt file
 - # On Windows
 fraud_detection_env\Scripts\activate
 # On macOS/Linux
