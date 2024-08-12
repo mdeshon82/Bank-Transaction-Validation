@@ -25,7 +25,7 @@ This project aims to identify fraudulent transactions in bank data using data an
 fraud_detection_env\Scripts\activate
 # On macOS/Linux
 source fraud_detection_env/bin/activate
-4. Run the Jupyter Notebook to see the analysis
+4. Run the Jupyter Noteboo k to see the analysis
 
 ## Summary of Findings
 - Identified trends and patterns in transaction data
