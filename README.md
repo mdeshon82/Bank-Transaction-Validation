@@ -29,4 +29,4 @@ source fraud_detection_env/bin/activate
 
 ## Summary of Findings
 - Identified trends and patterns in transaction data
-- Visualized correlations between transaction frequency and amounts
+- Visualized correlations between transacti on frequency and amounts
